@@ -1,0 +1,4 @@
+# Never commit worm samples
+*.exe
+*.virus
+_QUARANTINE*/
